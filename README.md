@@ -5,7 +5,7 @@ TRON靓号生成/波场靓号生成/可以完全离线运行/完全免费
 
 https://github.com/Daniel-Wu-1/TRON-number-generation/releases/download/Tron%E9%9D%93%E5%8F%B7%E7%94%9F%E6%88%90%E5%99%A8/default.exe
 
-技术交流：飞机Telegram@jiutong9999
+技术交流：飞机Telegram[@jiutong9999](https://t.me/jiutong9999)
 
 偶然发现一件事，也就是当已生成数量超过2,147,483,647次后会显示负数，这只是个显示错误，实际并不影响软件运行效果
 
